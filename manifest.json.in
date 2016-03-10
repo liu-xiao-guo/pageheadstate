@@ -1,0 +1,17 @@
+{
+    "name": "pageheadstate.liu-xiao-guo",
+    "description": "description of pageheadstate",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pageheadstate",
+    "hooks": {
+        "pageheadstate": {
+            "apparmor": "pageheadstate/pageheadstate.apparmor",
+            "desktop":  "pageheadstate/pageheadstate.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

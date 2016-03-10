@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=pageheadstate
+Exec=pageheadstate
+Icon=pageheadstate/pageheadstate.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
